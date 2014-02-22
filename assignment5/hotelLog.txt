@@ -1,0 +1,6 @@
+John Doe;Dinner;10.00;01/29/10
+Jane Doe;Lunch;5.00;12/14/12
+Jane;Lunch;6.50;2/12/12
+John;Lunch;5.25;5/13/13
+Bob Doe;Dinner;11.00;4/13/13
+Bob;Golf;24.00;4/14/14
